@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushant Raj</h1>
+<h1 align="center">Hi <img align="center" height="100" src="/gifs/giphy.gif">, I'm Sushant Raj</h1>
+
 <h3 align="center">I'm Software Developer and Java Enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant0999&label=Profile%20views&color=0e75b6&style=flat" alt="sushant0999" /> </p>
