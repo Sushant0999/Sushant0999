@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img align="center" height="100" src="/gifs/giphy.gif">, I'm <img align="center" height="80" src="/gifs/name.gif"></h1>
+<img src="/gifs/cover.gif" width="100%">
 
-<h3 align="center">I'm Software Developer and Java Enthusiast!</h3>
+<h3 align="center"><strong>I'm Software Developer and Java Enthusiast!</strong></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant0999&label=Profile%20views&color=0e75b6&style=flat" alt="sushant0999" /> </p>
 
