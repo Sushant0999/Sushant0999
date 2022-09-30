@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="center" height="100" src="/gifs/giphy.gif">, I'm Sushant Raj</h1>
+<h1 align="center">Hi <img align="center" height="100" src="/gifs/giphy.gif">, I'm <img align="center" height="80" src="/gifs/name.gif"></h1>
 
 <h3 align="center">I'm Software Developer and Java Enthusiast!</h3>
 
