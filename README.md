@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Java**
 
 - 👯 I’m looking to collaborate on **people**
 
-- 🤝 I’m looking for help with **everything 🤣**
+- 🤝 I’m looking for help with **everything**
 
-- 💬 Ask me about **Flutter or any tech realted stuff**
+- 💬 Ask me about **Java or any tech realted stuff**
 
-- ⚡ Fun fact **I love to sing and watch movies**
+- ⚡ Fun fact **I love to solve CTFs and learn about history and like to play video games my youtube channel <a href = 'https://www.youtube.com/channel/UC_EM3TZ4ttGcGjIAa2FM5bA'>link</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
