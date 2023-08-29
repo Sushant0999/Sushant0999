@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant0999&show_icons=true&locale=en" alt="sushant0999" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant0999&" alt="sushant0999" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648f1275779070ae6249cde8?variant=dark)](https://roadmap.sh)
