@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img align="center" height="100" src="/gifs/giphy.gif">, I'm <img align="center" height="80" src="/gifs/name.gif"></h1>
-<img src="/gifs/cover.gif" width="100%">
+
+<img src="/gifs/cover.gif" width="100%" height="500px">
 
 <h3 align="center"><strong>I'm Software Developer and Java Enthusiast!</strong></h3>
 
