@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java** and **MLOps** 
+- 🔭 I’m currently working on **Springboot** and **MLOps** 
 
 - 👯 I’m looking to collaborate on **people**
 
