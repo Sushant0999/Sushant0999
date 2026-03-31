@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://type.link/sushant0999"><strong>🌐 Portfolio</strong></a>
+  <a href="https://sushant0999.github.io/PortFolio_web/"><strong>🌐 Portfolio</strong></a>
 </p>
 
 <p align="center">
